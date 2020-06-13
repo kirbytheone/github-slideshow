@@ -2,5 +2,5 @@
 layout: slide
 title: "Now i understand!"
 ---
-Your text
+THIS IS MY TEXT!
 Use the left arrow to go back!
